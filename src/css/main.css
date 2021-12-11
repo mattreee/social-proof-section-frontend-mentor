@@ -26,6 +26,8 @@ body {
           align-items: center;
   margin: 0 11em;
   margin-top: 9em;
+  max-width: 1440px;
+  min-width: 375px;
 }
 
 .header-container {
